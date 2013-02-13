@@ -1,0 +1,5 @@
+<level>
+	<block x="400" y="0" width="20" height="1000" visible="false"/>
+	<block x="-60" y="450" width="1100" height="400" visible="true"/>
+	<flag x="1000" y="175" visible="true"/>
+</level>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<level>
+	  <block x="700" y="375" width="20" height="200" visible="false"/>
+	  <block x="-100" y="450" width="900" height="400" visible="true"/>
+	  <flag x="800" y="175" visible="false"/>
+</level>
